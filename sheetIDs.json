@@ -15,6 +15,7 @@
     "adminIA": "Si",
     "analisisgastos": "Si",
     "votaciones": "Si",
+    "panelvehicular": "",
     "calles": [
       { "nombre": "ALBA", "codigo": "IkFMQk" },
       { "nombre": "CABALLEROS", "codigo": "IkNBQkFMTEVST" },
@@ -42,6 +43,7 @@
     "adminIA": "Si",
     "analisisgastos": "Si",
     "votaciones": "Si",
+    "panelvehicular": "",
     "calles": [
       { "nombre": "ALBA", "codigo": "IkFMQk" },
       { "nombre": "CABALLEROS", "codigo": "IkNBQkFMTEVST" },
@@ -69,6 +71,7 @@
     "adminIA": "Si",
     "analisisgastos": "",
     "votaciones": "Si",
+    "panelvehicular": "Si",
     "calles": [
       { "nombre": "Almendros", "codigo": "IkFsbWV" },
       { "nombre": "Bugambilias", "codigo": "IkJ1Z2F" },
@@ -95,6 +98,7 @@
     "adminIA": "Si",
     "analisisgastos": "Si",
     "votaciones": "Si",
+    "panelvehicular": "",
     "calles": [
       { "nombre": "Guadiana", "codigo": "" },
       { "nombre": "Tibber", "codigo": "" }
@@ -116,6 +120,7 @@
     "adminIA": "Si",
     "analisisgastos": "Si",
     "votaciones": "Si",
+    "panelvehicular": "",
     "calles": [
       { "nombre": "Guadiana", "codigo": "" },
       { "nombre": "Tibber", "codigo": "" }
@@ -137,6 +142,7 @@
     "adminIA": "Si",
     "analisisgastos": "Si",
     "votaciones": "Si",
+    "panelvehicular": "",
     "calles": [
       { "nombre": "Guadiana", "codigo": "" },
       { "nombre": "Tibber", "codigo": "" }
@@ -158,6 +164,7 @@
     "adminIA": "Si",
     "analisisgastos": "Si",
     "votaciones": "Si",
+    "panelvehicular": "",
     "calles": [
       { "nombre": "Acatl", "codigo": "IkFjYXRsI" },
       { "nombre": "Actopan", "codigo": "IkFjdG9wY" },
