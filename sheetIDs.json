@@ -12,10 +12,11 @@
     "preferenceID": "",
     "casetaseguridad": "Ok",
     "segurichat": "527713598364",
-    "adminIA": "",
+    "adminIA": "Si",
     "analisisgastos": "Si",
     "votaciones": "Si",
     "panelvehicular": "",
+    "controlpeatonal": "",
     "calles": [
       { "nombre": "ALBA", "codigo": "IkFMQk" },
       { "nombre": "CABALLEROS", "codigo": "IkNBQkFMTEVST" },
@@ -28,7 +29,7 @@
     ]
   },
   "Guadalajara Country Club": {
-    "sheetID": "061301c7-48a8-4f93-8cf2-d52a708196fd",
+    "sheetID": "74564282-0c4d-4505-aac4-91e676f5874d",
     "sheetIDprivada": "-GCL",
     "sheetIDubicacion": "",
     "sheetIDCalender": "",
@@ -40,7 +41,7 @@
     "preferenceID": "1824470973-45e4405e-20d0-4500-8a97-47ce5c198d65",
     "casetaseguridad": "Si",
     "segurichat": "",
-    "": "Si",
+    "adminIA": "Si",
     "analisisgastos": "Si",
     "votaciones": "Si",
     "panelvehicular": "",
@@ -68,10 +69,11 @@
     "preferenceID": "",
     "casetaseguridad": "Ok",
     "segurichat": "527714148096",
-    "adminIA": "",
+    "adminIA": "Si",
     "analisisgastos": "",
     "votaciones": "Si",
     "panelvehicular": "Si",
+    "controlpeatonal": "",
     "calles": [
       { "nombre": "Almendros", "codigo": "IkFsbWV" },
       { "nombre": "Bugambilias", "codigo": "IkJ1Z2F" },
@@ -95,10 +97,11 @@
     "preferenceID": "",
     "casetaseguridad": "Ok",
     "segurichat": "525582227469",
-    "adminIA": "",
+    "adminIA": "Si",
     "analisisgastos": "Si",
     "votaciones": "Si",
     "panelvehicular": "",
+    "controlpeatonal": "",
     "calles": [
       { "nombre": "Guadiana", "codigo": "" },
       { "nombre": "Tibber", "codigo": "" }
@@ -117,10 +120,11 @@
     "preferenceID": "",
     "casetaseguridad": "Ok",
     "segurichat": "525582227469",
-    "adminIA": "",
+    "adminIA": "Si",
     "analisisgastos": "Si",
     "votaciones": "Si",
     "panelvehicular": "",
+    "controlpeatonal": "",
     "calles": [
       { "nombre": "Guadiana", "codigo": "" },
       { "nombre": "Tibber", "codigo": "" }
@@ -139,10 +143,11 @@
     "preferenceID": "",
     "casetaseguridad": "Ok",
     "segurichat": "525582227469",
-    "adminIA": "",
+    "adminIA": "Si",
     "analisisgastos": "Si",
     "votaciones": "Si",
     "panelvehicular": "",
+    "controlpeatonal": "",
     "calles": [
       { "nombre": "Guadiana", "codigo": "" },
       { "nombre": "Tibber", "codigo": "" }
@@ -161,10 +166,11 @@
     "preferenceID": "",
     "casetaseguridad": "Ok",
     "segurichat": "525582227469",
-    "adminIA": "",
+    "adminIA": "Si",
     "analisisgastos": "Si",
     "votaciones": "Si",
     "panelvehicular": "",
+    "controlpeatonal": "",
     "calles": [
       { "nombre": "Acatl", "codigo": "IkFjYXRsI" },
       { "nombre": "Actopan", "codigo": "IkFjdG9wY" },
