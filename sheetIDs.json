@@ -242,15 +242,15 @@
     "panelvehicular": "Si",
     "controlpeatonal": "Si",
     "calles": [
-      { "nombre": "Arenal", "codigo": "IkFsbWV" },
-      { "nombre": "Castillo", "codigo": "IkJ1Z2F" },
-      { "nombre": "Coliseo", "codigo": "IkxhdXJ" },
-      { "nombre": "Cristobal Colon", "codigo": "Ik1hZ25" },
-      { "nombre": "Estrella", "codigo": "IlR1bGl" },
-      { "nombre": "Italia", "codigo": "IlZpb2x" },
-      { "nombre": "Nevada", "codigo": "IlNlZ3VyaWRhZC" },
-      { "nombre": "Omega", "codigo": "IlNlZ3VyaWRhZC" },
-      { "nombre": "Serrano", "codigo": "IlNlZ3VyaWRhZC" }
+      { "nombre": "Arenal", "codigo": "IkFyZW5hbC" },
+      { "nombre": "Castillo", "codigo": "IkNhc3RpbGxvI" },
+      { "nombre": "Coliseo", "codigo": "IkNvbGlzZ" },
+      { "nombre": "Cristobal Colon", "codigo": "IkNyaXN0b2JhbCBDb2xvbi" },
+      { "nombre": "Estrella", "codigo": "IkVzdHJlbGxhI" },
+      { "nombre": "Italia", "codigo": "Ikl0YWxpY" },
+      { "nombre": "Nevada", "codigo": "Ik5ldmFkY" },
+      { "nombre": "Omega", "codigo": "Ik9tZWdhI" },
+      { "nombre": "Serrano", "codigo": "IlNlcnJhbm" }
     ]
   }
 }
