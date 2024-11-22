@@ -45,6 +45,7 @@
     "analisisgastos": "Si",
     "votaciones": "Si",
     "panelvehicular": "Si",
+    "controlpeatonal": "Si",
     "calles": [
       { "nombre": "ALBA", "codigo": "IkFMQk" },
       { "nombre": "Almendros", "codigo": "IkFsbWV" },
