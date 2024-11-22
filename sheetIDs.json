@@ -225,8 +225,9 @@
   "Santa Regina - Andalucia": {
     "sheetID": "74564282-0c4d-4505-aac4-91e676f5874d",
     "sheetIDprivada": "-STAR",
-    "sheetIDubicacion": "https://maps.app.goo.gl/bhN8hCbVUyyKWJuu7",
-    "sheetIDCalender": "https://calendar.google.com/calendar/embed?src=37177ba39d333f7ac9edfc4ae9571b75e2562da9e2887771191bab6db82b5aee%40group.calendar.google.com&ctz=America%2FMexico_City",
+    "sheetIDubicacion": "https://maps.app.goo.gl/9Q1VB18cBKDy9czC6",
+    "sheetIDCalender": "https://calendar.google.com/calendar/embed?src=c_4beceb89c90a8c1dde221faba5f417c2ad663d3dc732bcef5434e1a5f6d99e5f%40group.calendar.google.com&ctz=America%2FMexico_City",
+    
     "banco": "BBVA",
     "titular": "Privada Santa Regina",
     "cuenta": "12345678",
@@ -253,4 +254,3 @@
     ]
   }
 }
-
