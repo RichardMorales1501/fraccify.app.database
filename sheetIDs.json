@@ -221,5 +221,36 @@
       { "nombre": "Zimapan", "codigo": "IlppbWFwY" },
       { "nombre": "Seguridad", "codigo": "IlNlZ3VyaWRhZC" }
     ]
+  },
+  "Santa Regina - Andalucia": {
+    "sheetID": "74564282-0c4d-4505-aac4-91e676f5874d",
+    "sheetIDprivada": "-STAR",
+    "sheetIDubicacion": "https://maps.app.goo.gl/bhN8hCbVUyyKWJuu7",
+    "sheetIDCalender": "https://calendar.google.com/calendar/embed?src=37177ba39d333f7ac9edfc4ae9571b75e2562da9e2887771191bab6db82b5aee%40group.calendar.google.com&ctz=America%2FMexico_City",
+    "banco": "BBVA",
+    "titular": "Privada Santa Regina",
+    "cuenta": "12345678",
+    "clabe": "12345678912345",
+    "monto": "$550.00 M.N.",
+    "preferenceID": "",
+    "casetaseguridad": "Si",
+    "segurichat": "5660019584",
+    "adminIA": "Si",
+    "analisisgastos": "Si",
+    "votaciones": "Si",
+    "panelvehicular": "Si",
+    "controlpeatonal": "Si",
+    "calles": [
+      { "nombre": "Arenal", "codigo": "IkFsbWV" },
+      { "nombre": "Castillo", "codigo": "IkJ1Z2F" },
+      { "nombre": "Coliseo", "codigo": "IkxhdXJ" },
+      { "nombre": "Cristobal Colon", "codigo": "Ik1hZ25" },
+      { "nombre": "Estrella", "codigo": "IlR1bGl" },
+      { "nombre": "Italia", "codigo": "IlZpb2x" },
+      { "nombre": "Nevada", "codigo": "IlNlZ3VyaWRhZC" },
+      { "nombre": "Omega", "codigo": "IlNlZ3VyaWRhZC" },
+      { "nombre": "Serrano", "codigo": "IlNlZ3VyaWRhZC" }
+    ]
   }
 }
+
